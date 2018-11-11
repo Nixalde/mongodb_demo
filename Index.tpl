@@ -1,6 +1,6 @@
 % include('headerIndex.tpl')
 <h1>MongoDB search </h1>
- <form action="/Ficha" method="post">
+ <form action="/" method="post">
 		    <label>Usuario:</label>
 		       <input type="text" name="name"/>
 		    <p></p>
